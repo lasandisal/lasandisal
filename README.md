@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lasandisal&style=flat-square&color=ffb6c1&label=profile+views" alt="Profile Views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=lasandisal&style=flat-square&color=ffb6c1&label=profile+views" alt="Profile Views" /> -->
   <img src="https://img.shields.io/badge/Based%20in-Galle,%20Sri%20Lanka-FFC0CB?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-FF8FAB?style=flat-square" alt="Open to" />
 </p>
