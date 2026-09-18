@@ -123,19 +123,6 @@ motto:     "Always learning. Always building. 🌱"
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🧭 PathFinder LK</h4>
-      <p><i>CodeSplash '26 hackathon proposal</i></p>
-      <p>An explainable-AI decision support system helping Sri Lankan O/L and A/L students navigate academic and career pathways.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <br />
       <h4>💬 Multi-Client JavaFX Chat</h4>
       <p><a href="https://github.com/lasandisal/ITS1141-Network-Programming-JavaFX-Chat"><code>ITS1141-Network-Programming-JavaFX-Chat</code></a></p>
       <p>A modular TCP multi-client group chat platform built with custom byte-streaming protocols.</p>
@@ -144,7 +131,9 @@ motto:     "Always learning. Always building. 🌱"
         <img src="https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=oracle&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <br />
       <h4>☕ Ocean Cafe POS</h4>
       <p><a href="https://github.com/lasandisal/Ocean-Cafe-POS"><code>Ocean-Cafe-POS</code></a></p>
@@ -200,13 +189,17 @@ motto:     "Always learning. Always building. 🌱"
   <img src="https://streak-stats.demolab.com/?user=lasandisal&hide_border=true&background=1A1A2E&ring=FF8FAB&fire=FF6F91&currStreakLabel=FF8FAB&sideLabels=FFC0CB&dates=CCCCCC&stroke=FF8FAB&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lasandisal&hide_border=true&bg_color=1A1A2E&color=FF8FAB&line=FF6F91&point=FFC0CB&area=true&area_color=FF6F91" alt="Contribution Graph" width="100%" />
-</p>
+<!--
+  Optional extras — uncomment if you want them:
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lasandisal&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-</p> -->
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lasandisal&hide_border=true&bg_color=1A1A2E&color=FF8FAB&line=FF6F91&point=FFC0CB&area=true&area_color=FF6F91" alt="Contribution Graph" width="100%" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=lasandisal&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+  </p>
+-->
 
 ---
 
