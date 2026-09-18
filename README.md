@@ -163,15 +163,17 @@ motto:     "Always learning. Always building. 🌱"
 ## 🎓 Education
 
 ```
-2026 ── Higher National Diploma in Software Engineering (HDSE)
-   │     Institute of Software Engineering (IJSE)
-   │     Enterprise Java · Spring Framework · JavaFX · Networks
+2025── Higher National Diploma in Software Engineering (Reading)
+   │     IJSE - Institute of Software Engineering 
    │
 2024 ── Diploma in Information Technology (Level 3)
    │     ESOFT Metro Campus
    │
-2023 ── Diploma in Business English
-         ESOFT Metro Campus
+2024 ── Diploma in Business English
+   │     ESOFT Metro Campus
+   │
+2010 - 2023 ── Primary & Secondary Education
+         Sanghamiththa Balika Vidyalaya
 ```
 
 ---
