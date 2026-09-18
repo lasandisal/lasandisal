@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF8FAB,100:FF6F91&height=200&section=header&text=Lasandi%20Salwathura&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20%26%20Full-Stack%20Developer%20%C2%B7%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20MERN&descAlignY=56&descSize=16" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:FF6F91&height=200&section=header&text=Lasandi%20Salwathura&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20and%20Full-Stack%20Developer&descAlignY=56&descSize=16" width="100%" alt="Header" />
 </p>
 
 <p align="center">
@@ -192,21 +192,21 @@ motto:     "Always learning. Always building. 🌱"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lasandisal&show_icons=true&hide_border=true&title_color=FF6F91&icon_color=FF8FAB&text_color=e6e6e6&bg_color=1A1A2E" alt="Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasandisal&layout=compact&hide_border=true&title_color=FF6F91&text_color=e6e6e6&bg_color=1A1A2E" alt="Top Languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=lasandisal&show_icons=true&hide_border=true&title_color=FF6F91&icon_color=FF8FAB&text_color=e6e6e6&bg_color=1A1A2E" alt="Stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lasandisal&layout=compact&hide_border=true&title_color=FF6F91&text_color=e6e6e6&bg_color=1A1A2E" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=lasandisal&hide_border=true&background=1A1A2E&ring=FF8FAB&fire=FF6F91&currStreakLabel=FF8FAB&sideLabels=FFC0CB&dates=CCCCCC&stroke=FF8FAB&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lasandisal&hide_border=true&bg_color=1A1A2E&color=FF8FAB&line=FF6F91&point=FFC0CB&area=true&area_color=FF6F91" alt="Contribution Graph" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lasandisal&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-</p>
+</p> -->
 
 ---
 
@@ -233,5 +233,5 @@ motto:     "Always learning. Always building. 🌱"
 <p align="center"><i>✨ Always learning. Always building. 🌱</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6F91,50:FF8FAB,100:FFC0CB&height=110&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6F91,100:FFC0CB&height=110&section=footer" width="100%" alt="Footer" />
 </p>
